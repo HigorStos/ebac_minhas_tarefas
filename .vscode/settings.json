@@ -8,11 +8,15 @@
       "descricao",
       "Descricao",
       "Gmail",
+      "Opcao",
       "variaveis"
     ],
     "cSpell.ignoreWords": [
       "CONCLUIDA",
+      "Formulario",
+      "Opcoes",
       "complementacao",
-      "criterio"
+      "criterio",
+      "parametro"
     ]
   }
